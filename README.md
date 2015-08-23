@@ -4,7 +4,7 @@
 
 * Run circles1.java 
     * Uncomment the code on the line that begins with // Move them? //--
-    * _Just make a NEWLINE after the //-- characters_
+    * _Just make a NEWLINE after the __//--__ _
 
 * Run circles2.java
 * Modify circles2.java to draw a different figure.
