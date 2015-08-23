@@ -1,12 +1,12 @@
 # x0:  Wild circles
 
 Run the codes and modify them.
- * Run circles0.java then change position and sizes.
+ * Run `circles0.java`, then change position and sizes.
 
- * Run circles1.java
-  * __Uncomment__ the "Move them? code, by breaking the line after __`//--`__
+ * Run `circles1.java, then __Uncomment__ the "Move them? code
     * `                         // Move them? //--`
     * `              x=  x + 2;  y=  y + 1;`
+ * _(Breaking the line after the __`//--`__ characters.)_
 
  * Run circles2.java, then modify it to draw a different creature.
     * __Change__ the creature:  add a body, eyes, legs, whatever, ...
