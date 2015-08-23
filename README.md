@@ -3,7 +3,7 @@
 * Run circles0.java
 
 * Run circles1.java
-  * __Uncomment__ the "Move them? code, by breaking the line after `//--`
+  * __Uncomment__ the "Move them? code, by breaking the line after __`//--`__
     * `                         // Move them? //--`
     * `              x=  x + 2;  y=  y + 1;`
 
