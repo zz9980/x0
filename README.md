@@ -4,9 +4,9 @@
 
 * Run circles1.java
    * Break the line after 
-      `              // Move them? //--`
-   * _(to unncomment the "Move them?" code:
-      `              x=  x + 2;  y=  y + 1;`
+`              // Move them? //--`
+   * to unncomment the "Move them?" code:
+`              x=  x + 2;  y=  y + 1;`
 
 * Run circles2.java
 * Modify circles2.java to draw a different figure.
