@@ -3,8 +3,8 @@
 * Run circles0.java
 
 * Run circles1.java 
-    * Uncomment the code on the line that begins with:   `// Move them? //--`
-    * _Just make a NEWLINE after the //-- characters._
+    * Uncomment the code on the line that begins with:         `// Move them? //--`
+    * __Just make a NEWLINE after the //-- characters.__       `                  ` _NEWLINE HERE_ 
 
 * Run circles2.java
 * Modify circles2.java to draw a different figure.
