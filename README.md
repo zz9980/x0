@@ -3,9 +3,10 @@
 * Run circles0.java
 
 * Run circles1.java 
-    * Uncomment the "Move them?" code _(by breaking the lne after the `//--` characters)_
+   * Uncomment the "Move them?" code 
 >`              // Move them? //--`
 >`              x=  x + 2;  y=  y + 1;`
+   * _(Break the lne after the `//--` characters)_
 
 * Run circles2.java
 * Modify circles2.java to draw a different figure.
