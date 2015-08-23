@@ -2,8 +2,9 @@
 
 * Run circles0.java
 
-* Run circles1.java 
-* Uncomment the "Move them?" code: 
+* Run circles1.java
+  * Unncomment the "Move them?" code:
+
 >`              // Move them? //--`
 >`              x=  x + 2;  y=  y + 1;`
    * _(Break the lne after the `//--` characters)_
