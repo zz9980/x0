@@ -8,7 +8,7 @@
     * `              x=  x + 2;  y=  y + 1;`
 
 * Run circles2.java
-* Modify circles2.java to draw a different figure.
+ * Modify circles2.java to draw a different figure.
     * Change the creature:  add a body, eyes, legs, whatever, ...
     * Write the creature's name on his body.
     
