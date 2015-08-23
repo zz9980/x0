@@ -1,7 +1,7 @@
 # x0:  Wild circles
 
-* Run the codes and modify them.
- * Run circles0.java
+Run the codes and modify them.
+ * Run circles0.java then change position and sizes.
 
  * Run circles1.java
   * __Uncomment__ the "Move them? code, by breaking the line after __`//--`__
@@ -17,4 +17,4 @@
     * Add green (0,255,0) __grass__ covering the lower 3/4 of the window.
     * Draw a magenta (255,0,255) __house__ on the horizon.
 
-* After testing your changes, __COMMIT__ your code and submit a __PULL-REQUEST__
+After testing your changes, __COMMIT__ your code and submit a __PULL-REQUEST__
