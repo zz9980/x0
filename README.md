@@ -13,8 +13,8 @@
     * Write the creature's name on his body.
     
 * Create a new file called "circles3.java"
-     1. Add a yellow (255,0,0) sun in the sky.
-     2. Add green (0,255,0) grass covering the lower 3/4 of the window.
-     3. Draw a magenta (255,0,255) house on the horizon.
+    * Add a yellow (255,0,0) sun in the sky.
+    * Add green (0,255,0) grass covering the lower 3/4 of the window.
+    * Draw a magenta (255,0,255) house on the horizon.
 
 * After testing your changes, COMMIT your code and submit a PULL-REQUEST
