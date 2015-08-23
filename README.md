@@ -1,8 +1,8 @@
 # x0:  Wild circles
 
-* Run circles0.java
+Run circles0.java
 
-* Run circles1.java
+Run circles1.java
    * Break the line after 
 `              // Move them? //--`
    * to unncomment the "Move them?" code:
