@@ -19,5 +19,3 @@ void draw() {
   // To uncomment the above code,
   //   BREAK the line after "//--
 }
-
-
