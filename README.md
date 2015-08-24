@@ -1,7 +1,7 @@
 # x0:  Wild circles
 
 Run the codes and modify them.
- * Run `circles0.java`, then change position and sizes.
+ * Run `circles0.java`, then change the position and sizes.
 
  * Run `circles1.java`, then __Uncomment__ the "Move them? code
        * `                         // Move them? //--`
