@@ -4,9 +4,10 @@ Run the codes and modify them.
  * Run `circles0.java`, then change the position and sizes.
 
  * Run `circles1.java`, then __uncomment__ the "Move them? code
-       * `                         // Move them? //--`
-       * `              x=  x + 2;  y=  y + 1;`
-       * _(Break the line after the __`//--`__ characters.)_
+       * `    // Move them? //--`
+       * `    x=  x + 2;  y=  y + 1;`
+
+_(Break the line after the __`//--`__ characters.)_
 
 * Run `circles2.java`, then modify it to draw a different creature
       * __Change__ the creature:  add a body, eyes, legs, whatever, ...
