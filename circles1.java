@@ -15,8 +15,9 @@ void draw() {
   ellipse(x, y, 80, 80);
   ellipse(x+60, y+60, 40, 40);
   ellipse(x+90, y+90, 20, 20);
-  // Move them???  
-  x=  x + 2;  y=  y + 1;
+  // Move them??? //--              x=  x + 2;  y=  y + 1;
+  // To uncomment the above code,
+  //   BREAK the line after "//--
 }
 
 
