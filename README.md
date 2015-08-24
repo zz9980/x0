@@ -3,7 +3,7 @@
 Run the codes and modify them.
  * Run `circles0.java`, then change the position and sizes.
 
- * Run `circles1.java`, then __uncomment__ the "Move them? code
+ * Run `circles1.java`, then __uncomment__ the "Move them? code         _(Break the line after the __`//--`__ characters.)_
        * `    // Move them? //--`
        * `    x=  x + 2;  y=  y + 1;`
 
