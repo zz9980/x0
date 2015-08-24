@@ -9,8 +9,8 @@ Run the codes and modify them.
             * _(Break the line after the __`//--`__ characters.)_
 
 * Run circles2.java, then modify it to draw a different creature
-            * __Change__ the creature:  add a body, eyes, legs, whatever, ...
-            * __Name__ the creature, and display text on his body.
+      * __Change__ the creature:  add a body, eyes, legs, whatever, ...
+      * __Name__ the creature, and display text on his body.
     
 * Create a new file called "circles3.java"
     * Add a yellow (255,0,0) __sun__ in the sky.
