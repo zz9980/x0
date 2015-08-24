@@ -7,11 +7,10 @@ Run the codes and modify them.
        * `    // Move them? //--`
        * `    x=  x + 2;  y=  y + 1;`
 
-* Run `circles2.java`, then modify it to draw a different creature
-    
-* Create a new file called __`circles3.java`__
-      * __Change__ the creature:  add eyes or a body or legs, etc.
+* Run `circles2.java`, then name your creature.
       * __Name__ the creature, and display text on his body.
-
+    
+* Create a new file called __`circles3.java`__ and add something to the creature.
+      * __Change__ the creature:  add eyes or a body or legs, etc.
 
 After testing your changes, __COMMIT__ your code and submit a __PULL-REQUEST__
