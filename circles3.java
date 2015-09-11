@@ -5,7 +5,7 @@ String author= "Teng Lin";
 String shape= "Ellipse" ;
 // Global Variables
 float x,y;
-int h,w,a,b,i;
+int h,w,a,b,i,o,u,n,l,k,z,c,p,d;
 
 //Setup, screen size, initialation.
 void setup() {
@@ -17,13 +17,21 @@ void setup() {
   a= 55;          //head width
   b= 60;          //head height
   i= 10;          //eye
- 
+  o= 0;           //body color
+  z= 0;           //body color
+  c= 0;           //body color
+  u= 255;         //head color
+  p= 255;         //head color
+  d= 255;         //head color
+  n= 255;         //eye color
+  l= 0;           //eye color
+  k= 0;           //eye color
 }
 
 
 //Next frame.
 void draw() {
-  fill(255);
+  fill(0);
   text(title, 20,20);
   text(subtitle, width/2, 20);
   text(author, 20, height-20);
@@ -31,14 +39,14 @@ void draw() {
   text(w+"x"+h , width/2, height-20);
   
   //color+ellipses
-  fill(0);
+  fill(o,z,c);
   ellipse(x,y, w,h);
-  fill(255);
+  fill(u,p,d);
   ellipse(x,y-70, a,b);
-  fill(0,0,255);
-  ellipse(x-15,y-70, i,i);  //left eye
-  ellipse(x+15,y-70, i,i);  //right eye
-  text("Lin", x,y);           //name of creature on the head.
+  fill(k,l,n);
+  ellipse(x-15,y-70, i,i);     //left eye
+  ellipse(x+15,y-70, i,i);     //right eye
+  text("Lin", x,y);            //name of creature.
   
 }
 
@@ -60,6 +68,13 @@ void keyPressed() {
   a= int(random(50,150));
   b= int(random(50,150));
   i= int(random(5,20));
-  
-  
+  o= int(random(255));
+  u= int(random(255));
+  p= int(random(255));
+  d= int(random(255));
+  n= int(random(255));
+  l= int(random(255));
+  k= int(random(255));
+  z= int(random(255));
+  c= int(random(255));
 }
